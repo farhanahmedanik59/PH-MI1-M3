@@ -1,0 +1,31 @@
+p{
+  margin: 20px;
+  background-color: bisque;
+  border-radius: 20px;
+  border: 2px solid bisque ;
+  box-shadow: 10px 10px 10px black ;
+  padding: 10px;
+  font-style: italic;
+  border-radius: 10px;
+}
+h1{
+  text-align: center;
+  border: 2px solid;
+  font-style: italic;
+  background-color: bisque;
+  margin: 0px;
+  padding: 50px;
+  border-radius: 20px;
+ 
+}
+h3{
+  text-align: center;
+  color: rgb(233, 140, 0);
+  text-decoration: underline;
+}
+.blog{
+  background-color: bisque;
+  padding: 2px;
+  border-radius: 10px;
+  box-shadow:2px 2px 2px;
+}
